@@ -3,7 +3,7 @@
 For this project, my teammates and I used Python to analyze and report on three years worth of Saint Louis service requests data (2016, 2017, and 2018). We used Python tools such as pandas, matplotlib, and jupyter-notebook to extract and graph our findings. The data was gathered from the Citizens' Service Bureau (CSB) @ https://www.stlouis-mo.gov/data/datasets/distribution.cfm?id=2
 
 *WASHSTL Data Analytics Bootcamp Group Project*
-Team Members: Renee O'Reilly, Theodore Moreland, Brian Kramer
+### Team Members: Renee O'Reilly, Theodore Moreland, Brian Kramer
 
 ### Citizens' Service Bureau
 
