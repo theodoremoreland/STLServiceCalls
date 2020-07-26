@@ -21,15 +21,15 @@ https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-sta
 
 # Visualizations
 
-<img src="Presentation/images/1.png" width="900">
+<img src="Presentation/images/1.png" width="600">
 
-<img src="Presentation/images/2.png" width="900">
+<img src="Presentation/images/2.png" width="600">
 
-<img src="Presentation/images/3.png" width="900">
+<img src="Presentation/images/3.png" width="600">
 
 <img src="Presentation/images/4.png" width="900">
 
-<img src="Presentation/images/5.png" width="900">
+<img src="Presentation/images/5.png" width="600">
 
 
 # Conclusions
