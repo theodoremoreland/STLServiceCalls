@@ -3,10 +3,10 @@
 For this project, my teammates and I used Python to analyze and report on three years worth of Saint Louis service requests data (2016, 2017, and 2018). We used Python tools such as pandas, matplotlib, and jupyter-notebook to extract and graph our findings. The data was gathered from the Citizens' Service Bureau (CSB) @ https://www.stlouis-mo.gov/data/datasets/distribution.cfm?id=2
 
 *WASHSTL Data Analytics Bootcamp Group Project*
-**Team Members:**
-Brian Kramer
-Renee O'Reilly
-Theodore Moreland
+### Team Members:
+- Brian Kramer
+- Renee O'Reilly
+- Theodore Moreland
 
 
 ### Citizens' Service Bureau
@@ -41,7 +41,7 @@ https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-sta
 
 <img src="Presentation/images/4.png" width="900">
 
-## Service Requests By Type (Pie Chart)
+## Pothole Requests By Type (Pie Chart)
 
 <img src="Presentation/images/5.png" width="600">
 
