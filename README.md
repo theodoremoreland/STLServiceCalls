@@ -27,23 +27,23 @@ https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-sta
 
 ## Service Requests Per Ward (Bar Chart)
 
-<img src="Presentation/images/1.png" width="600">
+<img src="Presentation/1.png" width="600">
 
 ## Service Requests Per Ward (Heat Map)
 
-<img src="Presentation/images/2.png" width="600">
+<img src="Presentation/2.png" width="600">
 
 ## Service Requests and Average Monthly Temparature (Scatter Plot)
 
-<img src="Presentation/images/3.png" width="600">
+<img src="Presentation/3.png" width="600">
 
 ## Service Requests By Month and Year (Bar Chart + Line Graph)
 
-<img src="Presentation/images/4.png" width="900">
+<img src="Presentation/4.png" width="900">
 
 ## Pothole Requests By Type (Pie Chart)
 
-<img src="Presentation/images/5.png" width="600">
+<img src="Presentation/5.png" width="600">
 
 
 # Conclusions
